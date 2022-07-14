@@ -248,9 +248,9 @@ GLA	basilisk.png	49	Basilisk	5	Northern Thanalan	Bluefog (x25, y21)
 GLA	gigas-bhikkhu.png	50.1	Gigas Bhikkhu	5	Mor Dhona	North Silvertear (x33, y15)
 GLA	2nd-cohort-hoplomachus.png	50.2	2nd Cohort Hoplomachus	5	Eastern La Noscea	Agelyss Wise (x25, y21) Lvl 49
 IMF	amalj-aa-hunter.png	1	Amalj'aa Hunter	3	Eastern Thanalan	Sandgate (x19, y28)
-IMF	doctore.png	2	Doctore	3	Halatali
+IMF	doctore.png	2	Doctore	3	Halatali  (x0, y0)
 IMF	firemane.png	3	Firemane	1	Halatali	(x11, y13)
-IMF	thunderclap-guivre.png	4	Thunderclap Guivre	1	Halatali
+IMF	thunderclap-guivre.png	4	Thunderclap Guivre	1	Halatali (x0, y0)
 IMF	sylvan-sough.png	5	Sylvan Sough	3	East Shroud	The Bramble Patch (x18, y21)
 IMF	kobold-footman.png	6	Kobold Footman	3	Upper La Noscea	Oakwood (x11, y22)
 IMF	kobold-pickman.png	7	Kobold Pickman	3	Upper La Noscea	Oakwood (x11, y22)
@@ -260,9 +260,9 @@ IMF	ixali-boundwing.png	10	Ixali Boundwing	1	Coerthas Central Highlands	(x32, y2
 IMF	amalj-aa-halberdier.png	11	Amalj'aa Halberdier	3	Southern Thanalan	Sagolii Desert (x25, y34) Lvl 32
 IMF	kobold-missionary.png	12	Kobold Missionary	3	Eastern La Noscea	Bloodshore (x28, y25) Lvl 34
 IMF	kobold-sidesman.png	13	Kobold Sidesman	3	Upper La Noscea	Zelma's Run (x26, y19) Lvl 34
-IMF	sand-bat.png	14	Sand Bat	3	Cutter's Cry
-IMF	sabotender-desertor.png	15	Sabotender Desertor	2	Cutter's Cry
-IMF	myrmidon-princess.png	16	Myrmidon Princess	1	Cutter's Cry
+IMF	sand-bat.png	14	Sand Bat	3	Cutter's Cry  (x0, y0)
+IMF	sabotender-desertor.png	15	Sabotender Desertor	2	Cutter's Cry  (x0, y0)
+IMF	myrmidon-princess.png	16	Myrmidon Princess	1	Cutter's Cry  (x0, y0)
 IMF	kobold-quarryman.png	17	Kobold Quarryman	3	Outer La Noscea	Iron Lake (x22, y14) Lvl 41
 IMF	sylvan-screech.png	18	Sylvan Screech	3	East Shroud	Larkscall (x21, y21) Lvl 43 (x25, y22)
 IMF	shelfspine-sahagin.png	19	Shelfspine Sahagin	3	Western La Noscea	Halfstone (x19, y21)
@@ -274,9 +274,9 @@ IMF	sapsa-shelfspine.png	24	Sapsa Shelfspine	3	Western La Noscea	Sapsa Spawning 
 IMF	zahar-ak-thm.png	25	Zahar'ak THM	3	Southern Thanalan	Zahar'ak (x32, y18)
 IMF	natalan-windtalon.png	26	Natalan Windtalon	4	Coerthas Central Highlands	Natalan (x31, y17)
 IMF	natalan-boldwing.png	27	Natalan Boldwing	5	Coerthas Central Highlands	Natalan (x31, y17)
-IMF	tonberry.png	28	Tonberry	8	The Wanderer's Palace
-IMF	corrupted-nymian.png	29	Corrupted Nymian	3	The Wanderer's Palace
-IMF	soldier-of-nym.png	30	Soldier Of Nym	3	The Wanderer's Palace
+IMF	tonberry.png	28	Tonberry	8	The Wanderer's Palace  (x0, y0)
+IMF	corrupted-nymian.png	29	Corrupted Nymian	3	The Wanderer's Palace  (x0, y0)
+IMF	soldier-of-nym.png	30	Soldier Of Nym	3	The Wanderer's Palace  (x0, y0)
 LNC	little-ladybug.png	1	Little Ladybug	3	Central Shroud	(x24, y18)
 LNC	ground-squirrel.png	2	Ground Squirrel	3	Central Shroud	(x22, y17)
 LNC	forest-funguar.png	3	Forest Funguar	3	Central Shroud	(x25, y19)
@@ -345,9 +345,9 @@ LNC	sylphlands-sentinel.png	49.1	Sylphlands Sentinel	5	East Shroud	(x24, y11)
 LNC	basilisk.png	49.2	Basilisk	4	Northern Thanalan	(x22, y24)
 LNC	2nd-cohort-eques.png	50	2nd Cohort Eques	5	Eastern La Noscea	(x30, y21)
 MLS	amalj-aa-hunter.png	1	Amalj'aa Hunter	3	Eastern Thanalan	Sandgate (x19, y28)
-MLS	heckler-imp.png	2	Heckler Imp	3	Halatali
-MLS	doctore.png	3	Doctore	3	Halatali
-MLS	firemane.png	4	Firemane	1	Halatali
+MLS	heckler-imp.png	2	Heckler Imp	3	Halatali  (x0, y0)
+MLS	doctore.png	3	Doctore	3	Halatali  (x0, y0)
+MLS	firemane.png	4	Firemane	1	Halatali  (x0, y0)
 MLS	sylvan-groan.png	5	Sylvan Groan	3	East Shroud	The Bramble Patch (x19, y21)
 MLS	sylvan-sough.png	6	Sylvan Sough	3	East Shroud	The Bramble Patch (x19, y21)
 MLS	kobold-pickman.png	7	Kobold Pickman	3	Upper La Noscea	Oakwood (x13, y22)
@@ -356,9 +356,9 @@ MLS	ixali-straightbeak.png	9	Ixali Straightbeak	3	North Shroud	Alder Springs (x2
 MLS	ixali-wildtalon.png	10	Ixali Wildtalon	1	Coerthas Central Highlands	(x30, y27)
 MLS	amalj-aa-divinator.png	11	Amalj'aa Divinator	3	Southern Thanalan	Sagolii Desert (x27, y34)
 MLS	kobold-pitman.png	12	Kobold Pitman	3	Eastern La Noscea	Bloodshore (x28, y26)
-MLS	temple-bat.png	13	Temple Bat	5	The Sunken Temple of Qarn
-MLS	the-condemned.png	14	The Condemned	6	The Sunken Temple of Qarn
-MLS	teratotaur.png	15	Teratotaur	1	The Sunken Temple of Qarn
+MLS	temple-bat.png	13	Temple Bat	5	The Sunken Temple of Qarn  (x0, y0)
+MLS	the-condemned.png	14	The Condemned	6	The Sunken Temple of Qarn  (x0, y0)
+MLS	teratotaur.png	15	Teratotaur	1	The Sunken Temple of Qarn  (x0, y0)
 MLS	kobold-bedesman.png	16	Kobold Bedesman	3	Outer La Noscea	Iron Lake (x22, y13)
 MLS	kobold-priest.png	17	Kobold Priest	1	Outer La Noscea	Iron Lake (x22, y12)
 MLS	sylvan-sigh.png	18	Sylvan Sigh	3	East Shroud	Larkscall (x23, y21)
@@ -372,8 +372,8 @@ MLS	sapsa-shelfclaw.png	25	Sapsa Shelfclaw	3	Western La Noscea	Sapsa Spawning Gr
 MLS	zahar-ak-archer.png	26	Zahar'ak Archer	3	Southern Thanalan	Zahar'ak (x29, y20)
 MLS	natalan-fogcaller.png	27	Natalan Fogcaller	4	Coerthas Central Highlands	Natalan (x32, y18)
 MLS	natalan-boldwing.png	28	Natalan Boldwing	5	Coerthas Central Highlands	Natalan (x31, y17)
-MLS	tonberry.png	29	Tonberry	5	The Wanderer's Palace
-MLS	giant-bavarois.png	30	Giant Bavarois	1	The Wanderer's Palace
+MLS	tonberry.png	29	Tonberry	5	The Wanderer's Palace  (x0, y0)
+MLS	giant-bavarois.png	30	Giant Bavarois	1	The Wanderer's Palace  (x0, y0)
 MRD	little-ladybug.png	1	Little Ladybug	3	Middle La Noscea	Zephyr Drift (x23, y24)
 MRD	wharf-rat.png	2	Wharf Rat	3	Middle La Noscea	Zephyr Drift (x21, y23)
 MRD	aurelia.png	3	Aurelia	3	Lower La Noscea	Moraby Bay (x24, y26)
@@ -437,9 +437,9 @@ MRD	milkroot-cluster.png	48	Milkroot Cluster	5	East Shroud	Sylphlands (x23, y16)
 MRD	4th-cohort-secutor.png	49	4th Cohort Secutor	5	Western Thanalan	Cape Westwind (x10, y6)
 MRD	2nd-cohort-laquearius.png	50	2nd Cohort Laquearius	5	Eastern La Noscea	Agelyss Wyse (x28, y21)
 ORD	amalj-aa-javelinier.png	1	Amalj'aa Javelinier	3	Eastern Thanalan	Sandgate (x19, y27)
-ORD	heckler-imp.png	2	Heckler Imp	5	Halatali
-ORD	scythe-mantis.png	3	Scythe Mantis	5	Halatali
-ORD	coliseum-python.png	4	Coliseum Python	5	Halatali
+ORD	heckler-imp.png	2	Heckler Imp	5	Halatali  (x0, y0)
+ORD	scythe-mantis.png	3	Scythe Mantis	5	Halatali  (x0, y0)
+ORD	coliseum-python.png	4	Coliseum Python	5	Halatali  (x0, y0)
 ORD	sylvan-scream.png	5	Sylvan Scream	3	East Shroud	The Bramble Patch (x19, y21)
 ORD	kobold-pickman.png	6	Kobold Pickman	3	Upper La Noscea	Oakwood (x13, y22)
 ORD	amalj-aa-bruiser.png	7	Amalj'aa Bruiser	3	Southern Thanalan	Broken Water (x21, y14)
@@ -449,8 +449,8 @@ ORD	ixali-fearcaller.png	10	Ixali Fearcaller	1	Coerthas Central Highlands	Dragon
 ORD	amalj-aa-sniper.png	11	Amalj'aa Sniper	3	Southern Thanalan	Sagolii Desert (x24, y34)
 ORD	kobold-missionary.png	12	Kobold Missionary	3	Eastern La Noscea	Bloodshore (x28, y26)
 ORD	kobold-sidesman.png	13	Kobold Sidesman	3	Upper La Noscea	Bronze Lake (x26, y19)
-ORD	temple-bee.png	14	Temple Bee	4	The Sunken Temple of Qarn
-ORD	temple-guardian.png	15	Temple Guardian	1	The Sunken Temple of Qarn
+ORD	temple-bee.png	14	Temple Bee	4	The Sunken Temple of Qarn  (x0, y0)
+ORD	temple-guardian.png	15	Temple Guardian	1	The Sunken Temple of Qarn  (x0, y0)
 ORD	kobold-roundsman.png	16	Kobold Roundsman	3	Outer La Noscea	Iron Lake (x22, y14)
 ORD	sylvan-snarl.png	17	Sylvan Snarl	3	East Shroud	Larkscall (x23, y20)
 ORD	shelfclaw-sahagin.png	18	Shelfclaw Sahagin	3	Western La Noscea	Halfstone (x18, y21)
@@ -463,9 +463,9 @@ ORD	sapsa-shelftooth.png	24	Sapsa Shelftooth	3	Western La Noscea	Sapsa Spawning 
 ORD	zahar-ak-pugilist.png	25	Zahar'ak Pugilist	3	Southern Thanalan	(x28, y20)
 ORD	natalan-swiftbeak.png	26	Natalan Swiftbeak	4	Coerthas Central Highlands	(x31, y17)
 ORD	natalan-boldwing.png	27	Natalan Boldwing	5	Coerthas Central Highlands	(x31, y17)
-ORD	tonberry.png	28	Tonberry	7	The Wanderer's Palace
-ORD	bronze-beetle.png	29	Bronze Beetle	6	The Wanderer's Palace
-ORD	keeper-of-halidom.png	30	Keeper Of Halidom	1	The Wanderer's Palace
+ORD	tonberry.png	28	Tonberry	7	The Wanderer's Palace  (x0, y0)
+ORD	bronze-beetle.png	29	Bronze Beetle	6	The Wanderer's Palace  (x0, y0)
+ORD	keeper-of-halidom.png	30	Keeper Of Halidom	1	The Wanderer's Palace  (x0, y0)
 PGL	huge-hornet.png	1	Huge Hornet	4	Central Thanalan	(x21, y26)
 PGL	star-marmot.png	2	Star Marmot	4	Central Thanalan	(x20, y27)
 PGL	cactuar.png	3	Cactuar	4	Western Thanalan	(x27, y24)
